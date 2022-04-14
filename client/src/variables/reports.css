@@ -1,0 +1,14 @@
+.report {
+  margin-bottom: 10px;
+}
+.report img {
+  margin: auto;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.report h3 {
+  text-align: center;
+  font-weight: 800;
+  color: #222121;
+  margin: 0;
+}
